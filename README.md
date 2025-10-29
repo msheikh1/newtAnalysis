@@ -1,6 +1,6 @@
 # Great Crested Newt Risk Zone Analysis (Norfolk & Suffolk)
 
-This short project demonstrates spatial data handling, cleaning, aggregation, and visualisation using Python based on publicly available data relevant to NatureSpace’s work.
+This short project demonstrates spatial data handling, cleaning, aggregation, and visualisation using Python based on publicly available data.
 
 ## 📘 Dataset
 
